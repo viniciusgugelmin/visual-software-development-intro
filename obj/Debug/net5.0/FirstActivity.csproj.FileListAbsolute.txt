@@ -1,0 +1,16 @@
+F:\gitignore\Faculdade\Desenvolvimento de Software Visual\4 periodo\1 bimestre\FirstActivity\bin\Debug\net5.0\FirstActivity.exe
+F:\gitignore\Faculdade\Desenvolvimento de Software Visual\4 periodo\1 bimestre\FirstActivity\bin\Debug\net5.0\FirstActivity.deps.json
+F:\gitignore\Faculdade\Desenvolvimento de Software Visual\4 periodo\1 bimestre\FirstActivity\bin\Debug\net5.0\FirstActivity.runtimeconfig.json
+F:\gitignore\Faculdade\Desenvolvimento de Software Visual\4 periodo\1 bimestre\FirstActivity\bin\Debug\net5.0\FirstActivity.runtimeconfig.dev.json
+F:\gitignore\Faculdade\Desenvolvimento de Software Visual\4 periodo\1 bimestre\FirstActivity\bin\Debug\net5.0\FirstActivity.dll
+F:\gitignore\Faculdade\Desenvolvimento de Software Visual\4 periodo\1 bimestre\FirstActivity\bin\Debug\net5.0\ref\FirstActivity.dll
+F:\gitignore\Faculdade\Desenvolvimento de Software Visual\4 periodo\1 bimestre\FirstActivity\bin\Debug\net5.0\FirstActivity.pdb
+F:\gitignore\Faculdade\Desenvolvimento de Software Visual\4 periodo\1 bimestre\FirstActivity\obj\Debug\net5.0\FirstActivity.csproj.AssemblyReference.cache
+F:\gitignore\Faculdade\Desenvolvimento de Software Visual\4 periodo\1 bimestre\FirstActivity\obj\Debug\net5.0\FirstActivity.GeneratedMSBuildEditorConfig.editorconfig
+F:\gitignore\Faculdade\Desenvolvimento de Software Visual\4 periodo\1 bimestre\FirstActivity\obj\Debug\net5.0\FirstActivity.AssemblyInfoInputs.cache
+F:\gitignore\Faculdade\Desenvolvimento de Software Visual\4 periodo\1 bimestre\FirstActivity\obj\Debug\net5.0\FirstActivity.AssemblyInfo.cs
+F:\gitignore\Faculdade\Desenvolvimento de Software Visual\4 periodo\1 bimestre\FirstActivity\obj\Debug\net5.0\FirstActivity.csproj.CoreCompileInputs.cache
+F:\gitignore\Faculdade\Desenvolvimento de Software Visual\4 periodo\1 bimestre\FirstActivity\obj\Debug\net5.0\FirstActivity.dll
+F:\gitignore\Faculdade\Desenvolvimento de Software Visual\4 periodo\1 bimestre\FirstActivity\obj\Debug\net5.0\ref\FirstActivity.dll
+F:\gitignore\Faculdade\Desenvolvimento de Software Visual\4 periodo\1 bimestre\FirstActivity\obj\Debug\net5.0\FirstActivity.pdb
+F:\gitignore\Faculdade\Desenvolvimento de Software Visual\4 periodo\1 bimestre\FirstActivity\obj\Debug\net5.0\FirstActivity.genruntimeconfig.cache
