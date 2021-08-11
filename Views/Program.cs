@@ -63,6 +63,8 @@ namespace FirstActivity.Views
                     Ex6.runExercise();
                     break;
             }
+
+            organization.clearAfterType(true);
         }   
     }
 }
