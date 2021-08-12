@@ -10,11 +10,12 @@ namespace FirstActivity.Views
         {
             Console.Clear();
 
-            if (args.Length > 1) {
+            if (args.Length > 1)
+            {
                 runSpecificExercise(args[1]);
                 return;
             }
-         
+
             // Exercise 1
             Ex1.runExercise();
             // Clear
@@ -43,7 +44,8 @@ namespace FirstActivity.Views
 
         static void runSpecificExercise(string value)
         {
-            switch (value) {
+            switch (value)
+            {
                 case "1":
                     Ex1.runExercise();
                     break;
@@ -65,6 +67,6 @@ namespace FirstActivity.Views
             }
 
             organization.clearAfterType(true);
-        }   
+        }
     }
 }

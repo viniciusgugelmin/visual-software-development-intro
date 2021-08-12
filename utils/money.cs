@@ -4,7 +4,7 @@ namespace FirstActivity.utils
     {
         public static string convertToString(double value)
         {
-            return  string.Format("{0:0.00}", value);
+            return string.Format("{0:0.00}", value);
         }
     }
 }

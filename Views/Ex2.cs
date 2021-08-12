@@ -5,7 +5,7 @@ namespace FirstActivity.Views
 {
     public class Ex2
     {
-        private const double DOLAR_VAR = 5.17, EURO_VAR = 6.14, PESO_VAR = 0.05;
+        const double DOLAR_VAR = 5.17, EURO_VAR = 6.14, PESO_VAR = 0.05;
         public static void runExercise()
         {
             Console.WriteLine("\nExercise 2:");

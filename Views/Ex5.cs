@@ -11,11 +11,12 @@ namespace FirstActivity.Views
             Console.Write("\nEnter a positive int number: ");
             int number = Convert.ToInt32(Console.ReadLine());
 
-            while (number < 0) {
+            while (number < 0)
+            {
                 Console.Write("\nEnter a POSITIVE int number: ");
                 number = Convert.ToInt32(Console.ReadLine());
             }
-           
+
             numbers.getFibonacciSequence(number);
         }
     }
