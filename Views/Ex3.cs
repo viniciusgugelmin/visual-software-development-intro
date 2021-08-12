@@ -4,7 +4,7 @@ namespace FirstActivity.Views
 {
     public class Ex3
     {
-        public static void runExercise()
+        public static void RunExercise()
         {
             Console.WriteLine("\nExercise 3:");
             Console.Write("\nEnter the first value: ");

@@ -4,7 +4,7 @@ namespace FirstActivity.Views
 {
     public class Ex1
     {
-        public static void runExercise()
+        public static void RunExercise()
         {
             Console.WriteLine("Exercise 1:");
             Console.Write("\nEnter the breadth of the rectangle: ");

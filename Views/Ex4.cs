@@ -4,7 +4,7 @@ namespace FirstActivity.Views
 {
     public class Ex4
     {
-        public static void runExercise()
+        public static void RunExercise()
         {
             Console.WriteLine("\nExercise 4:");
             Console.Write("\nEnter the age: ");

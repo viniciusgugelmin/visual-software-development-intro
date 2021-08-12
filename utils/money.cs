@@ -1,8 +1,8 @@
 namespace FirstActivity.utils
 {
-    public class money
+    public class Money
     {
-        public static string convertToString(double value)
+        public static string ConvertToString(double value)
         {
             return string.Format("{0:0.00}", value);
         }

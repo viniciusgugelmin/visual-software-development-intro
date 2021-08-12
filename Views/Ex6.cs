@@ -5,7 +5,7 @@ namespace FirstActivity.Views
     public class Ex6
     {
         const int MAX_VALUE = 1000;
-        public static void runExercise()
+        public static void RunExercise()
         {
             Console.WriteLine("\nExercise 6:");
             int[] arr = new int[MAX_VALUE];

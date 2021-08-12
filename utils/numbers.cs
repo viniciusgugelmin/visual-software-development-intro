@@ -2,9 +2,9 @@ using System;
 
 namespace FirstActivity.utils
 {
-    public class numbers
+    public class Numbers
     {
-        public static void getFibonacciSequence(int number)
+        public static void GetFibonacciSequence(int number)
         {
             int firstNumber = 0, secondNumber = 1, result = 0;
 

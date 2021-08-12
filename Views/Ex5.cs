@@ -5,7 +5,7 @@ namespace FirstActivity.Views
 {
     public class Ex5
     {
-        public static void runExercise()
+        public static void RunExercise()
         {
             Console.WriteLine("\nExercise 5:");
             Console.Write("\nEnter a positive int number: ");
@@ -17,7 +17,7 @@ namespace FirstActivity.Views
                 number = Convert.ToInt32(Console.ReadLine());
             }
 
-            numbers.getFibonacciSequence(number);
+            Numbers.GetFibonacciSequence(number);
         }
     }
 }
